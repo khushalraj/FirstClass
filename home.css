@@ -1,0 +1,19 @@
+/*
+universal selector
+*/
+
+*{
+margin: 0;
+}
+/*
+element selector
+*/
+p{
+    color : yellow;
+}
+button{
+    background-color: gray;
+    height: 50px;
+    width: 100px;
+    
+}
